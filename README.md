@@ -50,6 +50,6 @@ ImageDataGenerator를 사용하여 학습 데이터를 증강합니다. 회전, 
 (추가 예정)
 
 ## 📌 개발 환경
-  Python
-  Spyder (anaconda3) 
-  TensorFlow/Keras/CNN
+  Python  
+  Spyder (anaconda3)  
+  TensorFlow/Keras/CNN  
